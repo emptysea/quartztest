@@ -1,6 +1,5 @@
 ---
-title: Welcome to Quartz
+title: Artaus
 ---
 
-This is a blank Quartz installation.
-See the [documentation](https://quartz.jzhao.xyz) for how to get started.
+These are my own notes for our game in Artaus.  Feel free to use however you wish.

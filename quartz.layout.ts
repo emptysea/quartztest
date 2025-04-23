@@ -66,3 +66,15 @@ export const defaultListPageLayout: PageLayout = {
   ],
   right: [],
 }
+
+Component.Explorer({
+  filterFn: (node) => {
+    // set containing names of everything you want to filter out
+    const omit = new Set(["authoring content", "tags", "advanced", "z_attachments", "z_templates" ])
+
+    // can also use node.slug or by anything on node.data
+    // note that node.data is only present for files that exist on disk
+    // (e.g. implicit folder nodes that have no associated index.md)
+    return !omit.has(node.displayName.toLowerCase())
+  },
+})
