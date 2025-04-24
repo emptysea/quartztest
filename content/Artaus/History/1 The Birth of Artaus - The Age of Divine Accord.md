@@ -1,9 +1,9 @@
 ---
 dg-publish: true
 ---
-In the beginning, the celestials were divided spread apart in the great abyss. Then [[Argus]]—the Prime Celestial, Patron of Creation, Nothingness, and Truth. From the quiet void of unformed potential Argus summoned thirteen celestials, each born from the infinite essence of the void. These celestials were more than divine; they were the living embodiments of the world’s many creations—of land and sea, of light and shadow, of knowledge and chaos, of beginnings and ends.
+In the beginning, the celestials were divided spread apart in the great abyss. Then [[Argus]]—the Prime Celestial, Patron of Creation, Nothingness, and Truth. From the quiet void of unformed potential [[Argus]] summoned thirteen celestials, each born from the infinite essence of the void. These celestials were more than divine; they were the living embodiments of the world’s many creations—of land and sea, of light and shadow, of knowledge and chaos, of beginnings and ends.
 
-Together, under Argus’s guidance, the celestials forged the world of Artaus.
+Together, under [[Argus]]’s guidance, the celestials forged the world of Artaus.
 
 The Sacrifices that Shaped the World
 

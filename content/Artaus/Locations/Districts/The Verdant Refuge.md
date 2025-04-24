@@ -7,7 +7,7 @@ Northern district- Borders Kaido Reach and Mystharra
 
 The Verdant Refuge is the lifeblood of Celest—a vast, thriving expanse of wild groves, tended orchards, sprawling farmlands, and sacred glades. Unlike the towering stonework of other districts, its beauty lies in harmony—structures are formed from living trees, woven canopies, and carefully sculpted roots. Vines, flowers, and moss flow freely through the district like veins of color and life. It is the source of Celest's sustenance, culture of balance, and one of its most spiritually attuned districts
 
-owering at its heart stands the Spire of Cultivation—a colossal, living tree known as the Greenheart. Its shifting branches and blooming canopy embody the everchanging balance between wilderness and nurture. Created by the celestials Mykuril and Teiggus, the Spire tests those who enter not with steel, but with patience, humility, and the will to grow.
+owering at its heart stands [[content/Artaus/Locations/The Spire of Cultivation|the Spire of Cultivation]]—a colossal, living tree known as the Greenheart. Its shifting branches and blooming canopy embody the everchanging balance between wilderness and nurture. Created by the celestials [[Mykuril]] and [[Teiggus]], the Spire tests those who enter not with steel, but with patience, humility, and the will to grow.
 
 Governed by the Council of Nine Elders, each representing a vital aspect of life and legacy, the Refuge is deeply rooted in tradition—but always growing, just like its people.
 
@@ -34,8 +34,8 @@ Governed by the Council of Nine Elders, each representing a vital aspect of life
 
 ### Notable Locations 
 
-The Spire of Cultivation  
-A living, everchanging tree of impossible scale, said to have been grown by the celestials Mykuril and Teiggus. Its bark shifts with the seasons, and its trials reflect the balance between wild instinct and careful nurture. Climbing it is like stepping into nature’s dreams—and surviving them.
+[[content/Artaus/Locations/The Spire of Cultivation|The Spire of Cultivation]]  
+A living, everchanging tree of impossible scale, said to have been grown by the celestials [[Mykuril]] and [[Teiggus]]. Its bark shifts with the seasons, and its trials reflect the balance between wild instinct and careful nurture. Climbing it is like stepping into nature’s dreams—and surviving them.
 
 ---
 

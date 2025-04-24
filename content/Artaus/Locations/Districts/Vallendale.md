@@ -8,7 +8,7 @@ Vallendale is a district of wealth and whispers, where prosperity is worn like a
 
 Ruled by the enigmatic Umbral Court, Vallendale’s power lies not in crowns or titles, but in veils and whispers. Only six members are publicly acknowledged, and even they remain anonymous—masked, unnamed, and unaware of one another’s identities. Rumored though behind the curtain, five shadow operatives move with equal authority. Together, these factions form a delicate balance of legitimacy and control, each side keeping the other in check, and both essential to Vallendale’s Future.
 
-At the district’s heart looms the Spire of Prosperity, a dark, brooding tower crafted by the celestials Nephtus and The Night Mother. Here, the Rite of Passage is seen less as a spiritual trial and more as a strategic ascent—a test of cunning, luck, and survival.
+At the district’s heart looms [[content/Artaus/Locations/The Spire of Prosperity|the Spire of Prosperity]], a dark, brooding tower crafted by the celestials [[Nephtus]] and [[The Night Mother]]. Here, the Rite of Passage is seen less as a spiritual trial and more as a strategic ascent—a test of cunning, luck, and survival.
 
 |   |   |
 |---|---|

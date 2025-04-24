@@ -10,7 +10,7 @@ Northwestern District — Borders the Verdant Refuge and Stillmarch
 
 Mystharra is where magic breathes, where it is dissected, revered, rewritten, and reborn. Moonlight shines brighter here. Spellcraft lingers in the air like music. From its spiraling towers to its glowing sigilways, Mystharra stands as a beacon of arcane excellence and celestial alignment. Wizards debate fate in floating halls. Sorcerers sculpt storms with a glance. Summoners walk with creatures drawn from memory, blood, and promise.
 
-Founded beneath the twin moons by the celestials Din and Lun, Mystharra houses some of the greatest magical minds in all of Celest. The district is governed by a triad known as the Thrice-Sealed Sigil, three master arcanists who represent the core origins of magic: Study, Blood, and Inheritance.
+Founded beneath the twin moons by the celestials [[Din]] and [[Lun]], Mystharra houses some of the greatest magical minds in all of Celest. The district is governed by a triad known as the Thrice-Sealed Sigil, three master arcanists who represent the core origins of magic: Study, Blood, and Inheritance.
 
 Yet Mystharra is not only a place of academia and power—it is a place of wonder, mystery, and diplomacy. With ever-shifting architecture, moon-guided rituals, and a booming magical trade economy, it is a place where secrets sleep just beneath the surface and every rising moon changes what the district reveals.
 
@@ -24,7 +24,7 @@ Yet Mystharra is not only a place of academia and power—it is a place of wonde
 |### Core Characters<br><br>-------------------------------------------------------|   |
 |Name|Description|
 |Dean Orical Threvin|The Scrollbound Chair - A timeless elven archmage and the foremost authority on arcane theory in Celest. Orical is quiet, methodical, and revered as a living library. He has held the Scrollbound Chair more times than any other and often rotates the position with his protégés.|
-|Vaelari Umbreyne|The Sanguine Sigil - A whimsical and mysterious Fetchling sorcerer rumored to be descended from the moon goddess Lun. Vaelari represents magic born through blood and instinct. They are unpredictable, poetic, and often speak in riddles, but their insight cuts like a blade.|
+|Vaelari Umbreyne|The Sanguine Sigil - A whimsical and mysterious Fetchling sorcerer rumored to be descended from the moon goddess [[Lun]]. Vaelari represents magic born through blood and instinct. They are unpredictable, poetic, and often speak in riddles, but their insight cuts like a blade.|
 |Vessindra “Vess” Numinaris|The Moonmarked Thread - A gnome summoner who formed a pact with a celestial dragon Eidolon, Vess is calm, deliberate, and deeply respected. She bridges Mystharra and the other six districts, advocating for harmony between magic’s many origins.|
 |Arion Veylan|The Moonseer - A quiet and contemplative human who tracks celestial tides and magical shifts. Though not part of the ruling Sigil, Arion’s wisdom is often sought during arcane crises or uncertain moon phases. He is known for watching more than speaking.|
 |Tivra Vintail|Argentwarden of Mystharra - A sharp-witted Ratfolk merchant born in Vallendale’s Shade Bazaar, Tivra rose from humble beginnings to command Mystharra’s bustling Argent Sigil Market. She brokers deals between enchantment artisans and the broader economy of Celest.|
@@ -34,7 +34,7 @@ Yet Mystharra is not only a place of academia and power—it is a place of wonde
 
 Notable Locations
 
-- The Spire of Enchantment: A shifting arcane structure born from the divine power of Din and Lun. Those who enter must navigate its surreal chambers, where logic, perception, and reality itself can unravel. Its trials are equal parts mental, magical, and spiritual.  
+- The Spire of Enchantment: A shifting arcane structure born from the divine power of [[Din]] and [[Lun]]. Those who enter must navigate its surreal chambers, where logic, perception, and reality itself can unravel. Its trials are equal parts mental, magical, and spiritual.  
       
     
 - The Crescent Lyceum: A grand arcane academy built around a sacred moonwell. It serves as a place of learning for spellcasters preparing for the Rite of Passage and houses both traditional and experimental schools of magic.  

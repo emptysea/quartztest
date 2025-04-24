@@ -6,7 +6,7 @@ Southern district - borders Stillmarch and Vallendale
 
 Carthis is the cultural and noble heart of the mega city of Celest—a district of cobbled streets, towering spires, artisan guilds, and storied bloodlines. Here, tradition walks hand in hand with invention. Home to master crafters, celebrated artists, respected nobles, and daring adventurers, Carthis is where names are made—and remembered.
 
-At its center rises the awe-inspiring Spire of Ingenuity, a celestial construct of shifting puzzles, magical traps, and mechanical challenges. Forged by the celestials Adonius (patron of cities and invention) and Leinunya (muse of creation and love), the Spire is both a sacred symbol and a deadly test.
+At its center rises the awe-inspiring Spire of Ingenuity, a celestial construct of shifting puzzles, magical traps, and mechanical challenges. Forged by the celestials [[Adonius]] (patron of cities and invention) and [[Leinunya]] (muse of creation and love), the Spire is both a sacred symbol and a deadly test.
 
 As a rite of passage, each Carthisan youth must face the Spire’s first floor—an ever-changing trial that reveals their destined path and class. Success brings honor. Failure can bring humility… or death. Those who perish are remembered with pride in the Garden of Silent Oaths, for attempting the climb is itself a mark of courage.
 
@@ -45,7 +45,7 @@ The center of law and governance. This marble-and-bronze building houses the Cou
 
 ### The Eternal Silver Flame Gallery
 
-A luminous temple-gallery dedicated to Leinunya. Floating silver flames inspire artists and visionaries. Works created here are said to bear divine insight, and many journey here in search of their muse.
+A luminous temple-gallery dedicated to [[Leinunya]]. Floating silver flames inspire artists and visionaries. Works created here are said to bear divine insight, and many journey here in search of their muse.
 
 ---
 
@@ -57,7 +57,7 @@ A sacred memorial to those who died in the Spire Rite. Each fallen climber is ho
 
 ### The House of Harmony
 
-A dual-winged temple honoring both Adonius and Leinunya. One wing is a legal archive glowing with celestial scripts; the other a living gallery of art and sound. At the temple’s heart lies the Harmonium, a domed sanctuary where law and creativity merge.
+A dual-winged temple honoring both [[Adonius]] and [[Leinunya]]. One wing is a legal archive glowing with celestial scripts; the other a living gallery of art and sound. At the temple’s heart lies the Harmonium, a domed sanctuary where law and creativity merge.
 
 ---
 
