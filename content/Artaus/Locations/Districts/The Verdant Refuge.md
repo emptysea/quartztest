@@ -1,11 +1,11 @@
 ![[Pasted image 20250423194816.png]]
 
 
-Northern district- Borders Kaido Reach and Mystharra
+Northern district- Borders [[Kaido Reach|Kaido Reach]] and [[Mystharra|Mystharra]]
 
 “Where the breath of the forest feeds the heart of the city.”
 
-The Verdant Refuge is the lifeblood of Celest—a vast, thriving expanse of wild groves, tended orchards, sprawling farmlands, and sacred glades. Unlike the towering stonework of other districts, its beauty lies in harmony—structures are formed from living trees, woven canopies, and carefully sculpted roots. Vines, flowers, and moss flow freely through the district like veins of color and life. It is the source of Celest's sustenance, culture of balance, and one of its most spiritually attuned districts
+The Verdant Refuge is the lifeblood of [[Celest|Celest]]—a vast, thriving expanse of wild groves, tended orchards, sprawling farmlands, and sacred glades. Unlike the towering stonework of other districts, its beauty lies in harmony—structures are formed from living trees, woven canopies, and carefully sculpted roots. Vines, flowers, and moss flow freely through the district like veins of color and life. It is the source of [[Celest|Celest]]'s sustenance, culture of balance, and one of its most spiritually attuned districts
 
 owering at its heart stands [[content/Artaus/Locations/The Spire of Cultivation|the Spire of Cultivation]]—a colossal, living tree known as the Greenheart. Its shifting branches and blooming canopy embody the everchanging balance between wilderness and nurture. Created by the celestials [[Mykuril|Mykuril]] and [[Teiggus|Teiggus]], the Spire tests those who enter not with steel, but with patience, humility, and the will to grow.
 
@@ -40,7 +40,7 @@ A living, everchanging tree of impossible scale, said to have been grown by the 
 ---
 
 The Fields Eternal  
-Vast, communal farmland tended by druids, farmers, and caretakers. The first seed of Celest was planted here, and its crops feed much of the city. It is said the land remembers every hand that sows it.
+Vast, communal farmland tended by druids, farmers, and caretakers. The first seed of [[Celest|Celest]] was planted here, and its crops feed much of the city. It is said the land remembers every hand that sows it.
 
 ---
 

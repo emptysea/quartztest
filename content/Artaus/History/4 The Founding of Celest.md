@@ -1,9 +1,9 @@
 ---
 dg-publish: true
 ---
-To unite their children and offer a new path, the gods gathered once more and formed a solution—a city forged by the divine, a beacon for all races and creeds. Around the Spine of Creation, the tallest mountain in all Artaus, they founded Celest: a seven-district mega-city, each district a reflection of the divine ideals of two celestials.
+To unite their children and offer a new path, the gods gathered once more and formed a solution—a city forged by the divine, a beacon for all races and creeds. Around the Spine of Creation, the tallest mountain in all Artaus, they founded [[Celest|Celest]]: a seven-district mega-city, each district a reflection of the divine ideals of two celestials.
 
-Thus began the First Era of Celest, now nearly 700 years since its creation. The city has grown ever since, shaping and being shaped by mortal hands and divine will alike. Celest stands as the heart of civilization, where the gods still walk in whispers, where the sun and moons still shine with meaning, and where every district fulfills a sacred purpose:
+Thus began the First Era of [[Celest|Celest]], now nearly 700 years since its creation. The city has grown ever since, shaping and being shaped by mortal hands and divine will alike. [[Celest|Celest]] stands as the heart of civilization, where the gods still walk in whispers, where the sun and moons still shine with meaning, and where every district fulfills a sacred purpose:
 
 • [[The Verdant Refuge|The Verdant Refuge]] – Overseen by [[Mykuril|Mykuril]] and [[Teiggus|Teiggus]], it feeds the world.
 

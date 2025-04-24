@@ -1,12 +1,12 @@
 ![[Pasted image 20250423194724.png]]
 
-Southwestern district - Borders Mystharra and Carthis
+Southwestern district - Borders [[Mystharra|Mystharra]] and [[Carthis|Carthis]]
 
 “Where all paths end, and faith begins.”
 
 Stillmarch is a solemn, radiant district devoted to honor, healing, faith, and the quiet certainty of death. Built at the border between life and what lies beyond, it is governed by reverence for two celestials: [[Ramza|Ramza]], Celestial of virtue, protection, healing, and family; and [[DaKrell|DaKrell]], the faceless Celestial of death and final judgment.
 
-It is a place of pilgrimage and purpose—where clerics, paladins, and the devout from every corner of Celest come to pray, to learn, and to climb the district’s sacred monolith: the Spire of Faith. Said to test the body, spirit, and loyalty of the soul, the Spire is a crucible of character—and no climber returns unchanged.
+It is a place of pilgrimage and purpose—where clerics, paladins, and the devout from every corner of [[Celest|Celest]] come to pray, to learn, and to climb the district’s sacred monolith: [[Campaigns/Artaus/Locations/The Spire of Faith|the Spire of Faith]]. Said to test the body, spirit, and loyalty of the soul, the Spire is a crucible of character—and no climber returns unchanged.
 
 Stillmarch holds little trade, but offers the greatest spiritual and restorative services in the city. Its healer houses are renowned, its orphanage beloved, and its courthouses feared and respected in equal measure.
 
@@ -29,7 +29,7 @@ Stillmarch holds little trade, but offers the greatest spiritual and restorative
 |Elder Mervin “Vinn” Reedwhistle|The Chorus of Light – Leads choirs, hymn rites, and ceremonies of honor||
 |Elder Mariel Dawnvale|The Lantern of Hope – Manages the orphanage, care for the lost and hopeless||
 |Elder Damarion Veilhart|The Bell of Reckoning – Delivers judgment when faith has failed or truth is tested||
-|High Hierophant Caelus Veyne|High Hierophant of Stillmarch – Supreme spiritual guide of the district, arbiter of divine will, and silent bridge between [[Ramza|Ramza]] and [[DaKrell|DaKrell]], whose presence unifies the Concord and affirms the sanctity of the Spire of Faith.||
+|High Hierophant Caelus Veyne|High Hierophant of Stillmarch – Supreme spiritual guide of the district, arbiter of divine will, and silent bridge between [[Ramza|Ramza]] and [[DaKrell|DaKrell]], whose presence unifies the Concord and affirms the sanctity of [[Campaigns/Artaus/Locations/The Spire of Faith\|the Spire of Faith]].||
 
   
   
@@ -49,7 +49,7 @@ A grand martial school and training yard where paladins, champions, and guardian
 ### The House of Enduring Grace
 
 Overseen by: The Hand of Healing  
-A revered healer’s sanctuary known across Celest for its miraculous recoveries. Its wards are fragrant with herbs and lit by soft divine auras. Alchemical brewers, divine medics, and clerics serve both the poor and the powerful. A lower wing manages medicine vendors and trains apprentice healers under careful oversight.
+A revered healer’s sanctuary known across [[Celest|Celest]] for its miraculous recoveries. Its wards are fragrant with herbs and lit by soft divine auras. Alchemical brewers, divine medics, and clerics serve both the poor and the powerful. A lower wing manages medicine vendors and trains apprentice healers under careful oversight.
 
 ---
 
@@ -63,7 +63,7 @@ This solemn complex of tombs, mausoleums, and open-air memorial gardens winds be
 ### The Pilgrim’s Reach
 
 Overseen by: The Warden of the Way  
-The first stop for those intending to ascend the Spire of Faith. This cloistered plaza includes dormitories, meditation paths, shrines to all celestials, and quiet gardens where pilgrims prepare their minds. The Warden keeps detailed scrolls of every climber's entry, prayer, and return—or lack thereof.
+The first stop for those intending to ascend [[Campaigns/Artaus/Locations/The Spire of Faith|the Spire of Faith]]. This cloistered plaza includes dormitories, meditation paths, shrines to all celestials, and quiet gardens where pilgrims prepare their minds. The Warden keeps detailed scrolls of every climber's entry, prayer, and return—or lack thereof.
 
 ---
 
@@ -102,9 +102,9 @@ A towering courthouse joined to the Archive, where divine judgment is delivered 
 
 ---
 
-### The Spire of Faith
+### [[Campaigns/Artaus/Locations/The Spire of Faith|The Spire of Faith]]
 
-Rising at the heart of Stillmarch, the Spire of Faith is a sacred tower created by the celestials [[Ramza|Ramza]] and [[DaKrell|DaKrell]]. It challenges climbers with trials of honor, courage, belief, and spiritual conviction. No two paths within are the same, and each floor reflects the soul of the one who climbs it.
+Rising at the heart of Stillmarch, [[Campaigns/Artaus/Locations/The Spire of Faith|the Spire of Faith]] is a sacred tower created by the celestials [[Ramza|Ramza]] and [[DaKrell|DaKrell]]. It challenges climbers with trials of honor, courage, belief, and spiritual conviction. No two paths within are the same, and each floor reflects the soul of the one who climbs it.
 
 It is said that to ascend the Spire is to walk between light and shadow—and only those who carry both in balance will reach its heights.
 
