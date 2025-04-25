@@ -1,36 +1,37 @@
+
 ![[Pasted image 20250423194724.png]]
 
-Southwestern district - Borders [[Mystharra]] and [[Carthis]]
+Southwestern district - Borders [[Mystharra|Mystharra]] and [[Carthis|Carthis]]
 
 “Where all paths end, and faith begins.”
 
 Stillmarch is a solemn, radiant district devoted to honor, healing, faith, and the quiet certainty of death. Built at the border between life and what lies beyond, it is governed by reverence for two celestials: [[Ramza|Ramza]], Celestial of virtue, protection, healing, and family; and [[DaKrell|DaKrell]], the faceless Celestial of death and final judgment.
 
-It is a place of pilgrimage and purpose—where clerics, paladins, and the devout from every corner of [[Celest]] come to pray, to learn, and to climb the district’s sacred monolith: [[Campaigns/Artaus/Locations/The Spire of Faith|the Spire of Faith]]. Said to test the body, spirit, and loyalty of the soul, the Spire is a crucible of character—and no climber returns unchanged.
+It is a place of pilgrimage and purpose—where clerics, paladins, and the devout from every corner of [[Celest|Celest]] come to pray, to learn, and to climb the district’s sacred monolith: [[Campaigns/Artaus/Locations/The Spire of Faith|the Spire of Faith]]. Said to test the body, spirit, and loyalty of the soul, the Spire is a crucible of character—and no climber returns unchanged.
 
 Stillmarch holds little trade, but offers the greatest spiritual and restorative services in the city. Its healer houses are renowned, its orphanage beloved, and its courthouses feared and respected in equal measure.
 
 
 -------------------------------------------------------
 
-|   |   |   |
-|---|---|---|
-|Government|Stillmarch is ruled not by nobility, but by the Concord of Stillmarch—a council of nine spiritual leaders, each entrusted with one aspect of virtue, law, or service. They are united beneath the guidance of the High Hierophant Caelus Veyne, a mortal chosen directly by [[Ramza|Ramza]] and [[DaKrell|DaKrell]] after refusing their divine boons.||
-||   ||
+|            |                                                                                                                                                                                                                                                                                                                                          |
+| ---------- | ---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
+| Government | Stillmarch is ruled not by nobility, but by the Concord of Stillmarch—a council of nine spiritual leaders, each entrusted with one aspect of virtue, law, or service. They are united beneath the guidance of the High Hierophant Caelus Veyne, a mortal chosen directly by [[Ramza|Ramza]] and [[DaKrell|DaKrell]] after refusing their divine boons. |
+|            |                                                                                                                                                                                                                                                                                                                                          |
 ## Core Characters
  
-|Name|Description|
-|---|---| 
-|Elder Bromm Thandrik-Stone|The Voice of Protection – Oversees the warrior orders and holy guardians||
-|Elder Elaris Virellen|The Hand of Healing – Leads the Healer Houses and manages sacred medicine||
-|Elder Thairen of the Veil|The Keeper of the Veil – Guides last rites, funerals, and communion with [[DaKrell|DaKrell]]’s mysteries||
-|Elder Caelum Farstep|The Warden of the Way – Oversees pilgrim paths and Spire entry rites||
-|Elder Sissava Emberwake|The Flamebearer – Maintains ritual fires, candles, and the sanctity of holy spaces||
-|### Elder Quindra Loomquill|The Binding Voice – Handles doctrinal records, oaths, and matters of divine law||
-|Elder Mervin “Vinn” Reedwhistle|The Chorus of Light – Leads choirs, hymn rites, and ceremonies of honor||
-|Elder Mariel Dawnvale|The Lantern of Hope – Manages the orphanage, care for the lost and hopeless||
-|Elder Damarion Veilhart|The Bell of Reckoning – Delivers judgment when faith has failed or truth is tested||
-|High Hierophant Caelus Veyne|High Hierophant of Stillmarch – Supreme spiritual guide of the district, arbiter of divine will, and silent bridge between [[Ramza|Ramza]] and [[DaKrell|DaKrell]], whose presence unifies the Concord and affirms the sanctity of [[Campaigns/Artaus/Locations/The Spire of Faith\|the Spire of Faith]].||
+| Name                            | Description                                                                                                                                                                                                                                  |
+| ------------------------------- | -------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
+| Elder Bromm Thandrik-Stone      | The Voice of Protection – Oversees the warrior orders and holy guardians                                                                                                                                                                     |
+| Elder Elaris Virellen           | The Hand of Healing – Leads the Healer Houses and manages sacred medicine                                                                                                                                                                    |
+| Elder Thairen of the Veil       | The Keeper of the Veil – Guides last rites, funerals, and communion with [[DaKrell|DaKrell]]’s mysteries                                                                                                                                             |
+| Elder Caelum Farstep            | The Warden of the Way – Oversees pilgrim paths and Spire entry rites                                                                                                                                                                         |
+| Elder Sissava Emberwake         | The Flamebearer – Maintains ritual fires, candles, and the sanctity of holy spaces                                                                                                                                                           |
+| Elder Quindra Loomquill         | The Binding Voice – Handles doctrinal records, oaths, and matters of divine law                                                                                                                                                              |
+| Elder Mervin “Vinn” Reedwhistle | The Chorus of Light – Leads choirs, hymn rites, and ceremonies of honor                                                                                                                                                                      |
+| Elder Mariel Dawnvale           | The Lantern of Hope – Manages the orphanage, care for the lost and hopeless                                                                                                                                                                  |
+| Elder Damarion Veilhart         | The Bell of Reckoning – Delivers judgment when faith has failed or truth is tested                                                                                                                                                           |
+| High Hierophant Caelus Veyne    | High Hierophant of Stillmarch – Supreme spiritual guide of the district, arbiter of divine will, and silent bridge between [[Ramza|Ramza]] and [[DaKrell|DaKrell]], whose presence unifies the Concord and affirms the sanctity of [[The Spire of Faith|The Spire of Faith]]. |
 
   
   
@@ -50,7 +51,7 @@ A grand martial school and training yard where paladins, champions, and guardian
 ### The House of Enduring Grace
 
 Overseen by: The Hand of Healing  
-A revered healer’s sanctuary known across [[Celest]] for its miraculous recoveries. Its wards are fragrant with herbs and lit by soft divine auras. Alchemical brewers, divine medics, and clerics serve both the poor and the powerful. A lower wing manages medicine vendors and trains apprentice healers under careful oversight.
+A revered healer’s sanctuary known across [[Celest|Celest]] for its miraculous recoveries. Its wards are fragrant with herbs and lit by soft divine auras. Alchemical brewers, divine medics, and clerics serve both the poor and the powerful. A lower wing manages medicine vendors and trains apprentice healers under careful oversight.
 
 ---
 
