@@ -1,10 +1,10 @@
 ![[Pasted image 20250423194830.png]]
 
-Southern district - borders Stillmarch and [[Vallendale|Vallendale]]
+Southern district - borders Stillmarch and [[Vallendale]]
 
 #### “Honor through challenge, legacy through creation.”
 
-Carthis is the cultural and noble heart of the mega city of [[Celest|Celest]]—a district of cobbled streets, towering spires, artisan guilds, and storied bloodlines. Here, tradition walks hand in hand with invention. Home to master crafters, celebrated artists, respected nobles, and daring adventurers, Carthis is where names are made—and remembered.
+Carthis is the cultural and noble heart of the mega city of [[Celest]]—a district of cobbled streets, towering spires, artisan guilds, and storied bloodlines. Here, tradition walks hand in hand with invention. Home to master crafters, celebrated artists, respected nobles, and daring adventurers, Carthis is where names are made—and remembered.
 
 At its center rises the awe-inspiring Spire of Ingenuity, a celestial construct of shifting puzzles, magical traps, and mechanical challenges. Forged by the celestials [[Adonius|Adonius]] (patron of cities and invention) and [[Leinunya|Leinunya]] (muse of creation and love), the Spire is both a sacred symbol and a deadly test.
 
@@ -15,16 +15,18 @@ As a rite of passage, each Carthisan youth must face the Spire’s first floor�
 |   |   |
 |---|---|
 |Government|The Council of Carthis<br><br>“Thirteen voices. One district. Bound by law, elevated by legacy.”<br><br>The Council of Carthis is a 13-member governing body responsible for the political, economic, cultural, and civic direction of the district. While the Celestials rule the central district, the outer districts like Carthis are semi-autonomous, and the council wields considerable power.<br><br>Each council seat holds equal vote in decision-making, though alliances and rivalries shift that balance behind closed doors. Council members serve lifelong terms—unless removed by vote of confidence, resignation, or death.|
-|||
-|### Core Characters<br><br>-------------------------------------------------------|   |
+
+## Core Characters
+ 
 |Name|Description|
+|---|---|
 |Lord Garron Brennan|Overseer of Law, Infrastructure, and Security - Represents House Brennan, one of Carthis’s founding noble lines. Known for upholding the district’s laws with an iron will.|
 |Lady Valyne Callisto|Overseer of Cultural and Magical Development - Matron of House Callisto. Revered patron of the arts, often seen as the voice of progress in the council.|
 |Dame Erys Dantharel|Overseer of Spire Oversight and Rite Governance -Born common. Earned nobility through sheer determination and now champions Spire reform and accessibility.|
 |Master Corven Hightree|Overseer of Innovation and Public Works - Head of the Tinker’s Guild. Designed the Skyrail Ring and countless other arcane-mechanical marvels across Carthis.|
 |Lady Tessa Myrielle|Overseer of Culture, Education, and Civic Morality - Founded the Children’s Conservatory and advocates for universal arcane and artistic education.|
-|Lord Merik Vallorne|Overseer of Banking, Trade, and Inter-District Commerce - Established the Sixfold Accord, standardizing trade across [[Celest|Celest]]. Controls Carthis’s banking systems.|
-|Sir Jarin Feldt|Overseer of Defense, Public Training, and Spire Affairs - Born in [[Vallendale|Vallendale]]. Reached the 28th floor of the Spire and now trains others to follow in his path.|
+|Lord Merik Vallorne|Overseer of Banking, Trade, and Inter-District Commerce - Established the Sixfold Accord, standardizing trade across [[Celest]]. Controls Carthis’s banking systems.|
+|Sir Jarin Feldt|Overseer of Defense, Public Training, and Spire Affairs - Born in [[Vallendale]]. Reached the 28th floor of the Spire and now trains others to follow in his path.|
 
   
   
@@ -63,7 +65,7 @@ A dual-winged temple honoring both [[Adonius|Adonius]] and [[Leinunya|Leinunya]]
 
 ### The Sky Rail Ring
 
-An arcane-powered transit system that connects Carthis to the other districts of [[Celest|Celest]]. Carthis’s station is adorned with gears, murals, and celestial emblems—representing both invention and legacy.
+An arcane-powered transit system that connects Carthis to the other districts of [[Celest]]. Carthis’s station is adorned with gears, murals, and celestial emblems—representing both invention and legacy.
 
 ---
 
@@ -76,6 +78,3 @@ A vast open-air coliseum for training and public duels. Named after Sir Jarin Fe
 ### The Aethrys Spire Academy
 
 An elite but inclusive preparatory school for Rite-bound youths (ages 13–19). Courses include Spire theory, logic, combat, magic, ethics, and team dynamics. No tuition is required. Graduates earn a magical Sigil of Preparedness.
-
-  
-**

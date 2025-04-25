@@ -1,16 +1,15 @@
 ![[Pasted image 20250423194724.png]]
 
-Southwestern district - Borders [[Mystharra|Mystharra]] and [[Carthis|Carthis]]
+Southwestern district - Borders [[Mystharra]] and [[Carthis]]
 
 “Where all paths end, and faith begins.”
 
 Stillmarch is a solemn, radiant district devoted to honor, healing, faith, and the quiet certainty of death. Built at the border between life and what lies beyond, it is governed by reverence for two celestials: [[Ramza|Ramza]], Celestial of virtue, protection, healing, and family; and [[DaKrell|DaKrell]], the faceless Celestial of death and final judgment.
 
-It is a place of pilgrimage and purpose—where clerics, paladins, and the devout from every corner of [[Celest|Celest]] come to pray, to learn, and to climb the district’s sacred monolith: [[Campaigns/Artaus/Locations/The Spire of Faith|the Spire of Faith]]. Said to test the body, spirit, and loyalty of the soul, the Spire is a crucible of character—and no climber returns unchanged.
+It is a place of pilgrimage and purpose—where clerics, paladins, and the devout from every corner of [[Celest]] come to pray, to learn, and to climb the district’s sacred monolith: [[Campaigns/Artaus/Locations/The Spire of Faith|the Spire of Faith]]. Said to test the body, spirit, and loyalty of the soul, the Spire is a crucible of character—and no climber returns unchanged.
 
 Stillmarch holds little trade, but offers the greatest spiritual and restorative services in the city. Its healer houses are renowned, its orphanage beloved, and its courthouses feared and respected in equal measure.
 
-.
 
 -------------------------------------------------------
 
@@ -18,8 +17,10 @@ Stillmarch holds little trade, but offers the greatest spiritual and restorative
 |---|---|---|
 |Government|Stillmarch is ruled not by nobility, but by the Concord of Stillmarch—a council of nine spiritual leaders, each entrusted with one aspect of virtue, law, or service. They are united beneath the guidance of the High Hierophant Caelus Veyne, a mortal chosen directly by [[Ramza|Ramza]] and [[DaKrell|DaKrell]] after refusing their divine boons.||
 ||   ||
-|### Core Characters<br><br>-------------------------------------------------------|   ||
-|Name|Description||
+## Core Characters
+ 
+|Name|Description|
+|---|---| 
 |Elder Bromm Thandrik-Stone|The Voice of Protection – Oversees the warrior orders and holy guardians||
 |Elder Elaris Virellen|The Hand of Healing – Leads the Healer Houses and manages sacred medicine||
 |Elder Thairen of the Veil|The Keeper of the Veil – Guides last rites, funerals, and communion with [[DaKrell|DaKrell]]’s mysteries||
@@ -49,7 +50,7 @@ A grand martial school and training yard where paladins, champions, and guardian
 ### The House of Enduring Grace
 
 Overseen by: The Hand of Healing  
-A revered healer’s sanctuary known across [[Celest|Celest]] for its miraculous recoveries. Its wards are fragrant with herbs and lit by soft divine auras. Alchemical brewers, divine medics, and clerics serve both the poor and the powerful. A lower wing manages medicine vendors and trains apprentice healers under careful oversight.
+A revered healer’s sanctuary known across [[Celest]] for its miraculous recoveries. Its wards are fragrant with herbs and lit by soft divine auras. Alchemical brewers, divine medics, and clerics serve both the poor and the powerful. A lower wing manages medicine vendors and trains apprentice healers under careful oversight.
 
 ---
 
@@ -102,12 +103,8 @@ A towering courthouse joined to the Archive, where divine judgment is delivered 
 
 ---
 
-### [[Campaigns/Artaus/Locations/The Spire of Faith|The Spire of Faith]]
+### [[The Spire of Faith|The Spire of Faith]]
 
-Rising at the heart of Stillmarch, [[Campaigns/Artaus/Locations/The Spire of Faith|the Spire of Faith]] is a sacred tower created by the celestials [[Ramza|Ramza]] and [[DaKrell|DaKrell]]. It challenges climbers with trials of honor, courage, belief, and spiritual conviction. No two paths within are the same, and each floor reflects the soul of the one who climbs it.
+Rising at the heart of Stillmarch, [[The Spire of Faith|the Spire of Faith]] is a sacred tower created by the celestials [[Ramza|Ramza]] and [[DaKrell|DaKrell]]. It challenges climbers with trials of honor, courage, belief, and spiritual conviction. No two paths within are the same, and each floor reflects the soul of the one who climbs it.
 
 It is said that to ascend the Spire is to walk between light and shadow—and only those who carry both in balance will reach its heights.
-
-  
-  
-**

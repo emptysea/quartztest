@@ -51,6 +51,7 @@ def process_file(filename):
         print(f"Error: File '{filename}' not found.")
     except Exception as e:
         print(f"An error occurred: {e}")
+        print ("Cannot process file " + str(filename))
 
 
 

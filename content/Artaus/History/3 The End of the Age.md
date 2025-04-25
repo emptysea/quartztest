@@ -5,6 +5,6 @@ As the Celestials wandered, their lessons often conflicted. One Celestial’s vi
 
 And so, in the Five Hundredth Year After Dawn, the celestials convened once more.
 
-They spoke not as patrons of domains, but as creators of a world in turmoil. They agreed to one definitive act: to build [[Celest|Celest]], the divine city, where all people might live as one—each district honoring the balance between gods. A place where no single voice ruled, but harmony might be forged through shared truth.
+They spoke not as patrons of domains, but as creators of a world in turmoil. They agreed to one definitive act: to build [[Celest]], the divine city, where all people might live as one—each district honoring the balance between gods. A place where no single voice ruled, but harmony might be forged through shared truth.
 
 Thus ended the Age of Great Wanderlust.
